@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://selfhost.directory">
-  <img src="https://selfhost.directory/og/banner.png" alt="selfhost.directory — the self-hostable projects directory" width="640">
+  <img src="https://selfhost.directory/assets/github_feature.webp" alt="selfhost.directory — the self-hostable projects directory" width="640">
 </a>
 
 # selfhost.directory
